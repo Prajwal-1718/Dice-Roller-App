@@ -1,2 +1,4 @@
 # Dice-Roller-App
-How to build a dice roller android app using kotlin language
+Download this complete repositry
+Save where you wish
+Open it in the **Android Studio**
